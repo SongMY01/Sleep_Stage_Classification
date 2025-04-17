@@ -1,4 +1,4 @@
-# 🧠 Mice Sleep Stage Classification
+# 🧠 Mouse Sleep Stage Classification
 
 This project is part of the **2024-1 Introduction to Artificial Intelligence** course.  
 We built an AI model to classify **mouse sleep stages** (REM, Wake, NREM) using spectrogram data extracted from brain signals.
